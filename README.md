@@ -1,8 +1,3 @@
-## ```"Decentralized Photo Social Media."```
+# SocioDapp
 
-![Video URL](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
-
-[Tutorial URL](https://www.youtube.com/watch?v=8rhueOcTu8k)
-
-## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png)
+a full stack social media dapp. The dapp lets a user post and receive images to an anonymous network of contributors. There will be a feed of all images. 
